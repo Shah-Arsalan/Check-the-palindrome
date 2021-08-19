@@ -158,8 +158,8 @@ function clickbutton(){
     
         OutputDiv.innerText = 'The next palindrome date is ' + nextDateforChecking.day + '-' + nextDateforChecking.month + '-' + nextDateforChecking.year +', you missed it by ' + counter+ ' days';
     }
-    console.log(nextDateforChecking.day)
-    console.log(nextDateforChecking.month)
-    console.log(nextDateforChecking.year)
+    //console.log(nextDateforChecking.day)
+    //console.log(nextDateforChecking.month)
+    //console.log(nextDateforChecking.year)
 
 }
